@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TETRATHON-012
 
-# Run and deploy your AI Studio app
+🚀 **Live Demo:** [https://tetra012.onrender.com](https://tetra012.onrender.com) *(replace with your actual Render/Vercel URL once live)*
 
-This contains everything you need to run your app locally.
+## Overview
+An intelligent healthcare management platform featuring **Shushruta AI**, designed for patient tracking, OCR report scanning, symptom checking, and clinical summaries.
 
-View your app in AI Studio: https://ai.studio/apps/839918ab-a8e7-4431-a3c8-33f4387c0e60
+## Key Features
+* 🤖 **Shushruta AI Chatbot:** Interactive assistant powered by Google Gemini.
+* 📋 **Patient Management:** Track vitals, assessments, and medical histories.
+* 📄 **OCR Scanner & Report Analysis:** Upload and analyze medical reports.
+* 📊 **Vitals & Clinical Analytics:** Clear dashboard visualization for healthcare tracking.
 
-## Run Locally
+## Tech Stack
+* **Frontend:** React, TypeScript, Vite, Tailwind CSS
+* **Backend:** Node.js / Express
+* **AI Model:** Google Gemini (`gemini-2.5-flash`)
 
-**Prerequisites:**  Node.js
+---
 
+## Local Setup Instructions
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Harshk033/TETRA012.git](https://github.com/Harshk033/TETRA012.git)
+   cd TETRA012
