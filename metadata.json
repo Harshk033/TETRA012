@@ -1,0 +1,6 @@
+{
+  "name": "Shushruta Healthcare AI Dashboard",
+  "description": "Fully interactive medical dashboard featuring clinical reports, vitals tracking, symptom checker, risk score, and AI health assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
